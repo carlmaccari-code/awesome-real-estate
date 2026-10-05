@@ -330,7 +330,7 @@
 
 ### Cost Estimation & Calculators
 
-- [DealPencil](https://carlmaccari-code.github.io/dealpencil/) - Deal analyzer for rentals, BRRRRs and flips plus 17 free calculators (DSCR, cap rate, house hacking, short-term rental) that runs in the browser with no account.
+- [DealLitmus](https://carlmaccari-code.github.io/deallitmus/) - Deal analyzer for rentals, BRRRRs and flips plus 17 free calculators (DSCR, cap rate, house hacking, short-term rental) that runs in the browser with no account.
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 
